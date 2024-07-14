@@ -41,3 +41,25 @@ Linear Algebra
 in 28 nm
 - Design and Implementation of a Hybrid, ADC/DAC-Free, Input-Sparsity-Aware, Precision Reconfigurable RRAM
 Processing-in-Memory Chip
+- A Heterogeneous RRAM In-Memory and SRAM Near-Memory SoC for Fused Frame and Event-Based Target
+Identification and Tracking
+- MetaVRain: A Mobile Neural 3-D Rendering Processor With Bundle-Frame-Familiarity-Based NeRF Acceleration
+and Hybrid DNN Computing
+- MulTCIM: Digital Computing-in-Memory-Based Multimodal Transformer Accelerator With Attention-Token-Bit
+Hybrid Sparsity
+- DynaPlasia: An eDRAM In-Memory Computing-Based Reconfigurable Spatial Accelerator With Triple-Mode
+Cell
+- A Nonvolatile AI-Edge Processor With SLC–MLC Hybrid ReRAM Compute-in-Memory Macro Using Current–Voltage-Hybrid Readout Scheme
+- MARSELLUS: A Heterogeneous RISC-V AI-IoT End-Node SoC With 2–8 b DNN Acceleration and 30%-Boost
+Adaptive Body Biasing
+- Multipurpose Deep-Learning Accelerator for Arbitrary Quantization With Reduction of Storage, Logic, and Latency
+Waste
+- C-DNN: An Energy-Efficient Complementary Deep-Neural-Network Processor With Heterogeneous CNN/SNN Core
+Architecture
+- A Floating-Point 6T SRAM In-Memory-Compute Macro Using Hybrid-Domain Structure for Advanced AI Edge
+Chips
+- A 9-Mb HZO-Based Embedded FeRAM With 1012-Cycle Endurance and 5/7-ns Read/Write Using ECC-Assisted
+Data Refresh and Offset-Canceled Sense Amplifier
+- An 8b-Precision 8-Mb STT-MRAM Near-Memory-Compute Macro Using Weight-Feature and Input-Sparsity Aware
+Schemes for Energy-Efficient Edge AI Devices
+- A 4-nm 1.15 TB/s HBM3 Interface With Resistor-Tuned Offset Calibration and In Situ Margin Detection 
