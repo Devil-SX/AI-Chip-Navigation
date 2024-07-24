@@ -1,5 +1,5 @@
-# JSSC
-## 2024
+## JSSC
+### 2024
 - name: Siracusa: A 16 nm Heterogenous RISC-V SoC for Extended Reality With At-MRAM Neural Engine, volume: 59, issue: 7
 - name: A Fully Row/Column-Parallel In-Memory Computing Macro in Foundry MRAM With Differential Readout for Noise
 Rejection, volume: 59, issue: 7
