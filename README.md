@@ -4,7 +4,7 @@
 
 Personal collection of links to research work on AI chips, computing-in-memory
 
-# ⏰️Program
+# ⏰️Programs
 
 |    | name            | registeration   | abstract    | full_paper   | notification   | link                                                                                         |
 |---:|:----------------|:----------------|:------------|:-------------|:---------------|:---------------------------------------------------------------------------------------------|
