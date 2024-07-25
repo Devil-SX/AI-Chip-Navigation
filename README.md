@@ -115,6 +115,7 @@ Schemes for Energy-Efficient Edge AI Devices | volume: 59 | issue: 1
 - name: eyerissF | lang: python | model level: functional | link: https://github.com/jneless/EyerissF
 - name: tiny-riscv | lang: verilog | model level: rtl | link: https://github.com/liangkangnan/tinyriscv
 - name: SoDLA | lang: chisel | model level: rtl | link: https://github.com/soDLA-publishment/soDLA | note: chisel version of nvdla
+- name: t1 | lang: chisel | model level: rtl | link: https://github.com/chipsalliance/t1 | note: riscv vector machine
 ## tutorials
 - name: learnsystemc | lang: systemc | code_link: https://github.com/learnwithexamples/learnsystemc | doc_link: https://www.learnsystemc.com/
 - name: UVM | lang: systemverilog | doc_link: https://www.chipverify.com/uvm/uvm-testbench-example-1
