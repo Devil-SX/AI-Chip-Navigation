@@ -32,6 +32,8 @@ Personal collection of links to research work on AI chips, computing-in-memory
 - year: 2023.0 | link: https://dl.acm.org/doi/proceedings/10.1145/3579371
 - year: 2022.0 | link: https://dl.acm.org/doi/proceedings/10.1145/3470496
 - link: https://ieeexplore.ieee.org/xpl/conhome/1000123/all-proceedings
+### JSSC
+- link: https://ieeexplore.ieee.org/xpl/issues?punumber=4&isnumber=10608476
 
 
 # ⭐️Interesting Papers
@@ -101,6 +103,13 @@ Data Refresh and Offset-Canceled Sense Amplifier | volume: 59 | issue: 1
 - name: An 8b-Precision 8-Mb STT-MRAM Near-Memory-Compute Macro Using Weight-Feature and Input-Sparsity Aware
 Schemes for Energy-Efficient Edge AI Devices | volume: 59 | issue: 1
 - name: A 4-nm 1.15 TB/s HBM3 Interface With Resistor-Tuned Offset Calibration and In Situ Margin Detection  | volume: 59 | issue: 1
+- name: A 28-nm Floating-Point Computing-in-Memory Processor Using Intensive-CIM Sparse-Digital Architecture | volume: 59 | issue: 8
+- name: RoboVisio: A Micro-Robot Vision Domain-Specific SoC for Autonomous Navigation Enabling Fully-on-Chip Intelligence via 2-MB eMRAM | volume: 59 | issue: 8
+- name: SP-PIM: A Super-Pipelined Processing-In-Memory Accelerator With Local Error Prediction for Area/Energy-Efficient On-Device Learning | volume: 59 | issue: 8
+- name: iMCU: A 28-nm Digital In-Memory Computing-Based Microcontroller Unit for TinyML | volume: 59 | issue: 8
+- name: Scaling-CIM: eDRAM In-Memory-Computing Accelerator With Dynamic-Scaling ADC and Adaptive Analog Operation | volume: 59 | issue: 8
+- name: A Scalable and Reconfigurable Bit-Serial Compute-Near-Memory Hardware Accelerator for Solving 2-D/3-D Partial Differential Equations | volume: 59 | issue: 8
+- name: ANP-I: A 28-nm 1.5-pJ/SOP Asynchronous Spiking Neural Network Processor Enabling Sub-0.1-μJ/Sample On-Chip Learning for Edge-AI Applications | volume: 59 | issue: 8
 
 
 # 🛠️Open Source
